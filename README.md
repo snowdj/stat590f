@@ -3,6 +3,39 @@ stat590f
 
 Topics in statistical computing @ ISU
 
+Spring 2015
+---
+Time & Place: Snedecor 2102, T 4-5
+
+Timeline & Topics:
+
+
+
+
+- Jan 20: discussion of topics and timeline 
+- Jan 27: very basic things in python (Jason, Alex, Ian)
+- Feb 3: numpy, scipy, how does python work in general? (Alex), 
+- Feb 10: pandas (Carson) - the python version of Hadley-verse
+- Feb 17: scikit learn (Jason) 
+- Feb 24: scikit again?
+- Mar 3:  ggply: Grammar of Graphics in python, other packages for static graphics
+- Mar 10: [interactive graphics (bokeh, seaborn)](http://heike.github.io/stat590f/bokeh) (Andee)
+- Mar 24: opencv (Eric), python interface, computer vision
+- Mar 31: ipython
+- Apr 7: Django, Flask - alternatives to  shiny (Eric)
+- Apr 14: Beautiful soup - webscraping (Carson) 
+- Apr 21: sympy (Andee): symbolic mathematics
+- Apr 28: mapreduce in python (), python interpreters - speedup?
+
+
+
+
+Resources: 
+- [https://www.python.org/]
+- Python notebooks: [http://ipython.org/notebook.html]
+
+Fall 2014
+---
 Time & Place: Snedecor 1109, W 12-1
 
 Timeline & Topics:
@@ -21,8 +54,8 @@ Timeline & Topics:
 - Nov 5: detecting text in images: first steps with Julia https://www.kaggle.com/c/street-view-getting-started-with-julia (all)
 - Nov 12: Parallel Computing with Julia (Alex)
 - Nov 19: benchmarking example (Somenath)
-- Dec 3: benchmarking base code (Andee) 
-- Dec 10: benchmarking vs Hadley verse (Eric)
+- Dec 3: [benchmarking base code](http://heike.github.io/stat590f/microbenchmark/microbenchmark.slides.html) (Andee) 
+- Dec 10: [benchmarking hadleyverse](http://heike.github.io/stat590f/hadleybenchmark/presentation.html) (Eric)
 
 Resources:
 
